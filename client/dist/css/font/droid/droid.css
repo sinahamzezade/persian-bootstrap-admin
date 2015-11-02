@@ -1,0 +1,396 @@
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 400;
+  src: url(DroidNaskh-Regular.eot);
+  src: url(DroidNaskh-Regular-ie.eot?#iefix) format('embedded-opentype'),
+       url(DroidNaskh-Regular.woff2) format('woff2'),
+       url(DroidNaskh-Regular.woff) format('woff'),
+       url(DroidNaskh-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Droid Arabic Naskh ‌Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url(DroidNaskh-Bold.eot);
+  src: url(DroidNaskh-Bold-ie.eot?#iefix) format('embedded-opentype'),
+       url(DroidNaskh-Bold.woff2) format('woff2'),
+       url(DroidNaskh-Bold.woff) format('woff'),
+       url(DroidNaskh-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "byekan";
+  src: url('fonts/BYekan.eot?#') format('eot'), 
+  url('fonts/BYekan.woff') format('woff'), 
+  url('fonts/BYekan.ttf') format('truetype');
+}
+
+h1,h2,h3,h4,h5,h6
+{
+ font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma; 
+}
+
+h1
+{
+  font-size: 22px;
+}
+
+#menu ul li a
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma;
+}
+
+#top-buttons
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+#telephone span
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma; 
+}
+
+#menu .megamenu .title,#menu .megamenu .title a
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma !important;
+}
+
+#menu .megamenu ul li a
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma !important; 
+}
+
+#menu .megamenu .side-bar p
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+#footer ul li
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+#footer p
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.news-item .span9 a
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+  font-weight: normal; 
+}
+
+.news-item .date
+{
+  font-family: 'byekan',"Times New Roman",tahoma;   
+}
+
+#services-section h1,#services-section p
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+#why-mobinnet .head-section .sub-menu li a
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma;
+}
+
+#why-mobinnet .description
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+#why-mobinnet .stability tspan
+{
+  font-family: 'byekan',"Times New Roman",tahoma;
+}
+
+#homepage-slider p
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+#sidebar .content ul li
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.note
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.page-content p,.page-content ul,.page-content ol
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.pricing .col h3
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+  font-weight: normal;
+}
+
+.pricing .col .price a
+{
+  font-family: 'byekan',"Times New Roman",tahoma;
+}
+
+.page-content li.tel
+{
+  font-family: 'byekan',"Times New Roman",tahoma; 
+}
+
+.bold-number
+{
+  font-family: 'byekan',"Times New Roman",tahoma;  
+}
+
+#call-center .footnote
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.page-content .page ul.iconic li a
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma;
+}
+
+input, select, textarea, label, button
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma; 
+}
+
+
+.support-cta
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma;
+}
+
+.white-buttons .support-cta
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma; 
+}
+
+.red-buttons .support-cta .tel
+{
+  font-family: 'byekan',"Times New Roman",tahoma;   
+}
+
+.page-content ul.plans-filter li h5
+{
+ font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.page-content ul.plans-filter li .icon h5
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma;
+}
+
+.page-content ul.plans li .rateplan h6
+{
+  font-family: 'byekan',"Times New Roman",tahoma;   
+  font-weight: normal;
+}
+
+.page-content ul.plans li .rateplan .price,.page-content ul.plans li .rateplan .detail .num
+{
+  font-family: 'byekan',"Times New Roman",tahoma;   
+}
+
+.pac-container
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.dealers-list ul .tel
+{
+  font-family: 'byekan',"Times New Roman",tahoma;   
+}
+
+.faq-content li a span
+{
+ font-family: 'byekan',"Times New Roman",tahoma;    
+}
+
+.faq.white-buttons .red-item .tel
+{
+ font-family: 'byekan',"Times New Roman",tahoma;     
+}
+
+.modem-info
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.modem-info h6
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.modem-info .price
+{
+ font-family: 'byekan',"Times New Roman",tahoma; 
+}
+
+h1.purple
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+  font-weight: normal;
+}
+
+.mobile-os
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+  font-weight: normal; 
+}
+
+.free-notice
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+  font-weight: normal;  
+}
+
+#info-section h1
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+  font-weight: normal;   
+}
+
+#info-section
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+#modems-view
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+#admin-menu
+{
+  /*font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma; */
+  direction: ltr;
+}
+
+#admin-menu .dropdown li li.expandable
+{
+  background-position: 139px 12px;
+}
+
+.dealer
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.dealer .tel
+{
+  font-family: 'byekan',"Times New Roman",tahoma;   
+}
+
+div.field
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+span.count
+{
+  font-family: 'byekan',"Times New Roman",tahoma; 
+}
+
+div.messages
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.form-number
+{
+  font-family: 'byekan',"Times New Roman",tahoma; 
+}
+
+#webform-component-telephone input,#webform-component-mobile input,#edit-submitted-birth-date,#webform-component-contact--telephone input,.webform.ltr
+{
+  direction: ltr;
+  font-family: 'byekan',"Times New Roman",tahoma; 
+  font-size: 12px; 
+}
+
+.introjs-helperNumberLayer
+{
+ font-family: 'byekan',"Times New Roman",tahoma;
+ font-weight: normal;  
+}
+
+.introjs-helperLayer
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;
+}
+
+.introjs-button
+{
+ font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma; 
+}
+
+fieldset a,fieldset .fieldset-legend
+{
+  font-family: 'Droid Arabic Naskh ‌Bold',"Times New Roman",tahoma;
+}
+
+.fieldset-description
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma; 
+}
+
+.news-element .date
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.single-news .date
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.single-news .content
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;   
+}
+
+.node-news .date
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;  
+}
+
+.node-news .content
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;   
+}
+
+.map-guide
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;   
+}
+
+.promotion-quote a.btn
+{
+  font-family: 'Droid Arabic Naskh',"Times New Roman",tahoma;   
+}
+
+table td
+{
+  font-family: 'byekan',"Times New Roman",tahoma; 
+  font-size: 13px;
+}
+
+table .summary td
+{
+  font-family: 'byekan',"Times New Roman",tahoma; 
+}
+
+.page-content ul.plans.promotion li .rateplan .detail span.old-price
+{
+  font-family: 'byekan',"Times New Roman",tahoma; 
+}
